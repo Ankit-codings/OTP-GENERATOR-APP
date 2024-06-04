@@ -1,5 +1,5 @@
 # OTP-GENERATOR-APP
-Live Demo - https://github.com/Ankit-codings Responsive-Industrial-Business-Website-Template/
+Live Demo -  https://ankit-codings.github.io/OTP-GENERATOR-APP/
 
 Join Us Instagram - https://www.instagram.com/_ankit_rider_07?igsh=Ymd1Nm9wcDFia20=
 
